@@ -6,7 +6,7 @@ Portfólio do desenvolvedor Mauricio Pantoja formado em Graduação no Curso Sup
 
 O controle das tarefas desse projeto será realizado no GitHub
 
-## Ícones
+ ## Ícones
 
 - :package: nova funcionalidade
 - :up: atualização
